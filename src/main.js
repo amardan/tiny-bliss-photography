@@ -599,8 +599,8 @@ function initInvestment() {
     if (!data) return;
 
     let html = `
-      <div class="pricing-banner-wrapper" style="margin-bottom: 3.5rem; border: 1px solid var(--border-color); overflow: hidden; position: relative;">
-        <div style="background-image: url('${data.image}'); height: 380px; background-size: cover; background-position: center; transition: var(--transition-smooth);" class="pricing-banner-img"></div>
+      <div class="pricing-banner-wrapper">
+        <div style="background-image: url('${data.image}');" class="pricing-banner-img"></div>
       </div>
       <div class="pricing-section-intro">
         <p style="color: var(--text-secondary); font-size: 1.1rem; line-height: 1.5; margin-bottom: 3rem;">${data.intro}</p>
