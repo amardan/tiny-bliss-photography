@@ -277,7 +277,7 @@ pages.home = `
       <h1 class="hero-title serif">Timeless Portraits for Growing Families</h1>
       <p class="hero-desc">Gentle posed newborn sessions and heartwarming family photography in McLean, Virginia and the DC metro area.</p>
       <div style="display: flex; gap: 1rem; justify-content: center;">
-        <a href="#contact" class="btn btn-primary">Book a Session</a>
+        <a href="#contact" class="btn btn-primary">Inquire Availability</a>
         <a href="#gallery" class="btn btn-outline" style="border-color: var(--bg-primary); color: var(--bg-primary);">View Portfolio</a>
       </div>
     </div>
@@ -423,7 +423,7 @@ pages.home = `
   <section class="section container text-center">
     <h2 class="serif" style="font-size: 2.6rem; margin-bottom: 1.5rem;">Ready to capture these fleeting moments?</h2>
     <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto 2.5rem auto; font-size: 1.05rem;">
-      Spots fill up fast, especially for newborn sessions. We recommend booking during your second trimester to ensure availability.
+      Spots fill up fast, especially for newborn sessions. We recommend inquiring during your second trimester to ensure availability.
     </p>
     <a href="#contact" class="btn btn-primary">Check Availability</a>
   </section>
@@ -553,7 +553,7 @@ pages.contact = `
         <div>
           <h2 class="serif contact-title">Let's Connect</h2>
           <p style="color: var(--text-secondary); margin-bottom: 2.5rem; font-size: 0.95rem;">
-            Ready to book your newborn, maternity, cake smash, or family session? I'd love to hear from you! Fill out the inquiry form and I'll get back to you within 24-48 hours.
+            Ready to check availability for your newborn, maternity, cake smash, or family session? I'd love to hear from you! Fill out the inquiry form and I'll get back to you within 24-48 hours.
           </p>
           
           <div class="contact-details">
@@ -578,9 +578,9 @@ pages.contact = `
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
               <div>
                 <h4 class="contact-item-title">Planning Window</h4>
-                <p class="contact-item-text">Newborns: Book in 2nd Trimester</p>
-                <p class="contact-item-text">Maternity: Book for 28-34 weeks</p>
-                <p class="contact-item-text">Cake Smash: Book for 10-11 months</p>
+                <p class="contact-item-text">Newborns: Inquire in 2nd Trimester</p>
+                <p class="contact-item-text">Maternity: Inquire for 28-34 weeks</p>
+                <p class="contact-item-text">Cake Smash: Inquire for 10-11 months</p>
               </div>
             </div>
           </div>
