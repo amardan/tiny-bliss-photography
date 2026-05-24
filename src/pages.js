@@ -355,6 +355,50 @@ pages.home = `
     </div>
   </section>
 
+  <section class="section" style="border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); background-color: var(--bg-primary);">
+    <div class="container">
+      <div class="section-title-wrap">
+        <span class="section-tag">Safety & Experience</span>
+        <h2 class="section-title serif">Our Studio Standards</h2>
+        <p class="section-desc">We combine high-end art with professional care to provide a serene, worry-free experience for your family's newest addition.</p>
+      </div>
+      
+      <div class="trust-pillars-grid">
+        <div class="trust-pillar-card">
+          <div class="trust-pillar-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M12 8v8"/><path d="M8 12h8"/></svg>
+          </div>
+          <h3 class="trust-pillar-title">Certified Safety Posing</h3>
+          <p class="trust-pillar-desc">Raha holds professional certifications in newborn safety. Every pose is meticulously guided by baby's physiology, comfort, and natural flexibility.</p>
+        </div>
+        
+        <div class="trust-pillar-card">
+          <div class="trust-pillar-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          </div>
+          <h3 class="trust-pillar-title">Sanitized & Cozy Studio</h3>
+          <p class="trust-pillar-desc">Our McLean studio is kept at a warm 78°F for baby's comfort. All wraps, backdrops, and props undergo medical-grade sanitization between sessions.</p>
+        </div>
+        
+        <div class="trust-pillar-card">
+          <div class="trust-pillar-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          </div>
+          <h3 class="trust-pillar-title">Gentle, Baby-Led Flow</h3>
+          <p class="trust-pillar-desc">We schedule only one newborn session per day. We never rush, allowing ample time for nursing, comforting cuddles, diaper breaks, and soothing.</p>
+        </div>
+        
+        <div class="trust-pillar-card">
+          <div class="trust-pillar-icon">
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          </div>
+          <h3 class="trust-pillar-title">Premium Client Care</h3>
+          <p class="trust-pillar-desc">Enjoy a luxury parent lounge with organic refreshments, changing tables fully stocked with natural supplies, and a curated designer studio wardrobe.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="section testimonials-section">
     <div class="container">
       <div class="section-title-wrap">

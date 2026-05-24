@@ -548,6 +548,75 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 1.5rem;
 }
 
+
+/* Trust Pillars Section */
+.trust-pillars-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.trust-pillar-card {
+  background-color: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  padding: 3rem 2rem;
+  text-align: center;
+  transition: var(--transition-smooth);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.trust-pillar-card:hover {
+  border-color: var(--accent-gold);
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-md);
+}
+
+.trust-pillar-icon {
+  color: var(--accent-gold);
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 56px;
+  height: 56px;
+  background-color: var(--bg-secondary);
+  border-radius: 50%;
+  transition: var(--transition-smooth);
+}
+
+.trust-pillar-card:hover .trust-pillar-icon {
+  background-color: var(--accent-gold);
+  color: var(--bg-primary);
+}
+
+.trust-pillar-title {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  font-family: var(--font-serif);
+  font-weight: 500;
+}
+
+.trust-pillar-desc {
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 1024px) {
+  .trust-pillars-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  .trust-pillars-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Testimonial Slider */
 .testimonials-section {
   background-color: var(--bg-secondary);
