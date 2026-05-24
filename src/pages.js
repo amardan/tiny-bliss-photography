@@ -291,7 +291,6 @@ pages.home = `
     </div>
 
     <div class="services-grid">
-      $
       <a href="#gallery?category=newborn" class="service-card">
         <div class="service-img" style="background-image: url('https://static.wixstatic.com/media/909cb6_22b50a61345d4257a0b2f35435f87e66~mv2.jpg');"></div>
         <div class="service-overlay"></div>
@@ -380,6 +379,38 @@ pages.home = `
           <div class="testimonial-slide">
             <p class="testimonial-quote">"Absolutely incredible experience! She captured our newborn so beautifully and made the whole session stress-free. The photos are works of art."</p>
             <p class="testimonial-author">— Michelle & Ryan, Herndon VA</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"We've used other photographers before, but none compare to Tiny Bliss Photography. The attention to detail and genuine care for our family was amazing."</p>
+            <p class="testimonial-author">— Karen & Steve, Reston VA</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"From booking to final delivery, everything was perfect. Our maternity and newborn photos are absolutely stunning. Highly recommend!"</p>
+            <p class="testimonial-author">— Jessica & Mark, Ashburn VA</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"She has such a gift for capturing authentic moments. Our family photos feel so natural and full of love. We'll be clients for life!"</p>
+            <p class="testimonial-author">— Nicole & Brian, Arlington VA</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"The cake smash session was so much fun! She handled the mess while we enjoyed watching our daughter discover cake. Priceless memories!"</p>
+            <p class="testimonial-author">— Rachel & Tony, Great Falls VA</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"Professional, creative, and so good with children. Our 2-year-old was having a rough day but she still got amazing shots. True talent!"</p>
+            <p class="testimonial-author">— Emily & Jason, Tysons Corner VA</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"These newborn photos exceeded all our expectations. The props, lighting, and gentle handling of our baby was perfection."</p>
+            <p class="testimonial-author">— Samantha & Chris, Leesburg VA</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"We drove from DC and it was absolutely worth it. The studio is beautiful and the experience was everything we hoped for."</p>
+            <p class="testimonial-author">— Maria & David, Washington DC</p>
+          </div>
+          <div class="testimonial-slide">
+            <p class="testimonial-quote">"Five stars isn't enough! The photos are magazine-quality and she made our whole family feel comfortable and special."</p>
+            <p class="testimonial-author">— Lindsay & Mike, Springfield VA</p>
           </div>
         </div>
         <div class="testimonial-dots" id="testimonial-dots">
